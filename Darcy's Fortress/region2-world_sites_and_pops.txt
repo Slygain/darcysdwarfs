@@ -1,0 +1,876 @@
+1: Ivirenimo, "Dispersedpit", a cave
+	1 giant desert scorpion
+	1 alligator
+	6 naked mole dogs
+	310 cave spiders
+	451 bats
+2: Ethaena Caretha Leya, "Squirmeddeep the Sewers of Justice", a cave
+	1 giant
+	5 troglodytes
+	437 bats
+	280 cave spiders
+3: Nodbora, "Anguishedmined", a cave
+	1 alligator
+	5 batmen
+	284 cave spiders
+	449 bats
+4: Relepisanene, "Twistedechoed", a cave
+	1 alligator
+	5 troglodytes
+	442 cave spiders
+	285 purring maggots
+	427 bats
+5: Distatgor, "The Unkempt Pits", a cave
+	1 cyclops
+	5 gremlins
+	381 bats
+6: Camacethutha, "Portalmines", a cave
+	5 ratmen
+	390 bats
+	342 purring maggots
+7: Atridarak, "Blossomshaft", a cave
+	1 giant
+	5 gremlins
+	261 purring maggots
+	498 cave spiders
+8: Wami Idi, "The Scar of Specks", a cave
+	1 dragon
+	1 giant bat
+	2 trolls
+	282 purring maggots
+	413 bats
+	421 cave spiders
+9: Caretha Nidela, "The Sewers of Dusk", a cave
+	1 dragon
+	4 large rats
+	423 bats
+10: Alakulur Oxut Tedaz, "Yellnights the Shaft of Incineration", a cave
+	5 naked mole dogs
+	455 cave spiders
+	362 purring maggots
+11: Oranassmu, "Glideddank", a cave
+	1 giant
+	4 giant moles
+	350 bats
+	432 cave spiders
+12: Niwirsiga, "Winterdepths", a cave
+	1 cougar
+	1 giant desert scorpion
+	1 wolf
+	1 alligator
+	5 ratmen
+	437 cave spiders
+	255 bats
+13: Siga Pis, "The Depths of Wire", a cave
+	1 dragon
+	1 giant jaguar
+	4 large rats
+	380 purring maggots
+	416 bats
+14: Nimo Ariva, "The Pits of Genius", a cave
+	3 giant bats
+	252 purring maggots
+	451 cave spiders
+	493 bats
+15: Oggez Stegeth, "The Holes of Organizing", a cave
+	1 giant
+	3 gremlins
+	323 bats
+16: Angotgozru Bossu Emxa, "Taxedhells the Tomes of Dung", a cave
+	5 antmen
+	288 bats
+	415 cave spiders
+17: Kashezothsal, "Lessonsewers", a cave
+	3 giant moles
+	378 bats
+	260 purring maggots
+18: Osmat Stokgor, "The Heart of Goo", a cave
+	1 giant
+	3 large rats
+	487 bats
+	451 purring maggots
+19: Cafafi Lirina, "The Gutter of Flares", a cave
+	1 cyclops
+	3 trolls
+	383 bats
+	383 cave spiders
+20: Dozoana, "The Banded Hole", a cave
+	Owner: Shuchlorsnis, kobolds
+	Parent Civ: Sogochleelus, kobolds
+	Leader: Lathleengus, kobold
+	41 kobolds
+21: Omethu Fayile, "The Hollow of Spreading", a cave
+	1 cyclops
+	1 cougar
+	2 giant rats
+	466 bats
+	473 cave spiders
+22: Shedim Shoveth, "The Shadow of Mystery", a cave
+	5 cave swallowmen
+	298 cave spiders
+	485 purring maggots
+23: Okana Mugub Ngomstu, "Angerhole the Burn of Stone", a cave
+	Owner: Bloder, kobolds
+	Parent Civ: Threelmus, kobolds
+	Leader: Folroder, kobold
+	68 kobolds
+	1 giant desert scorpion
+24: Raslostngogngo, "Counselledmine", a cave
+	Owner: Braynger, kobolds
+	Parent Civ: Fladadaflungin, kobolds
+	Leader: Dadasreengis, kobold
+	116 kobolds
+	1 wolf
+25: Salilitheme, "Searchnights", a cave
+	Owner: Threenkis, kobolds
+	Parent Civ: Thlarsnis, kobolds
+	Leader: Kokoshraydis, kobold
+	98 kobolds
+26: Neyecafafi, "The Unseen Gutters", a cave
+	6 gremlins
+	500 cave spiders
+27: Asobthol, "Boarddeep", a cave
+	1 giant
+	5 trolls
+	410 cave spiders
+	303 bats
+28: Yemilanimo, "Weirdpits", a cave
+	1 giant
+	5 ratmen
+	429 cave spiders
+	391 bats
+29: Galka Cadem, "The Deep of Blood", a cave
+	1 wolf
+	5 giant rats
+	292 purring maggots
+30: Licsimo, "Strifeechoes", a cave
+	1 giant
+	1 wolf
+	5 ratmen
+	261 purring maggots
+	335 cave spiders
+31: Eyienira, "The Trustworthy Heart", a cave
+	1 giant
+	5 ratmen
+	339 bats
+	286 purring maggots
+32: Gembishugosh Numelcur, "Sealhollow the Windy Plague", a cave
+	1 giant
+	5 troglodytes
+	350 cave spiders
+	281 purring maggots
+33: Thecusu Fensast Ur, "Combathollow the Scars of Rock", a cave
+	5 ratmen
+	291 bats
+	359 cave spiders
+34: Odamado Snukangust, "Floodgloom the Passionate Knot", a cave
+	1 cougar
+	5 trolls
+	356 cave spiders
+	328 purring maggots
+35: Bokesnust, "The Absolute Hollows", a cave
+	5 trolls
+	458 purring maggots
+	305 cave spiders
+36: Athathivama, "Topgloom", a cave
+	1 giant
+	2 giant moles
+	2 trolls
+	299 bats
+	334 purring maggots
+37: Nulralgosmer, "Stableumbral", a cave
+	1 giant jaguar
+	5 trolls
+	277 purring maggots
+	358 cave spiders
+	286 bats
+38: Ulcokulur, "Archnights", a cave
+	5 naked mole dogs
+	431 bats
+39: Cidaayanu Bimawaomethu, "Bloodyabyss the Bridled Hollows", a cave
+	5 troglodytes
+	495 bats
+	265 cave spiders
+	490 purring maggots
+40: Ocadecaretha, "Swordsewers", a cave
+	1 alligator
+	4 giant moles
+	460 cave spiders
+41: Gujomsiga Cobimwarosp, "Sourdepth the Bejeweled Phantom", a cave
+	5 ratmen
+	296 bats
+42: Neraena, "Conjuredeep", a cave
+	5 antmen
+	429 cave spiders
+	322 purring maggots
+	403 bats
+43: Simo Nasnok, "The Echo of Cobras", a cave
+	1 cyclops
+	1 giant desert scorpion
+	4 gremlins
+	317 bats
+	318 purring maggots
+44: Thilsegavuz, "Tarnishedmines", a cave
+	1 giant
+	1 wolf
+	5 troglodytes
+	461 purring maggots
+	458 bats
+45: Spudtaloz Naxobsodor, "Dousescar the Dabbling Deep", a cave
+	5 naked mole dogs
+	496 bats
+	377 cave spiders
+46: Imetofi, "Onecrevice", a cave
+	1 cyclops
+	1 grizzly bear
+	5 troglodytes
+	407 cave spiders
+	401 purring maggots
+	377 bats
+47: Bora Goto, "The Mine of Rams", a cave
+	1 cougar
+	4 large rats
+	438 purring maggots
+	400 cave spiders
+48: Mapicethutha, "The Cradled Mine", a cave
+	1 cyclops
+	5 ratmen
+	361 purring maggots
+	271 bats
+49: Masamiiquila, "Cactusumbral", a cave
+	1 cougar
+	4 giant cave swallows
+	258 purring maggots
+	266 bats
+	273 cave spiders
+50: Oslaresnust Atobon, "Drillhollows the Empty Gutters", a cave
+	4 large rats
+	411 purring maggots
+	499 bats
+51: Sodor Gorno, "The Deeps of Bristling", a cave
+	3 trolls
+	478 bats
+	295 cave spiders
+	326 purring maggots
+52: Nesimosman, "Parchedshadows", a cave
+	5 batmen
+	332 bats
+53: Kirossimo Tawkifel, "Stopecho the Rosy Hold", a cave
+	1 cyclops
+	3 large rats
+	328 cave spiders
+	266 bats
+	457 purring maggots
+54: Ozadakon, "Claspedshadow", a cave
+	5 antmen
+	407 bats
+	250 cave spiders
+55: Dusmunslomod, "Cradlepit", a cave
+	3 giant cave spiders
+	371 cave spiders
+	341 bats
+56: Gasnaspngogngo, "Mutedmined", a cave
+	1 cougar
+	5 troglodytes
+	420 bats
+57: Odaayanu, "The Foggy Abyss", a cave
+	1 giant
+	3 trolls
+	330 bats
+	441 cave spiders
+	260 purring maggots
+58: Matulgosmer, "Danceumbral", a cave
+	1 cougar
+	3 trolls
+	445 purring maggots
+	399 cave spiders
+59: Ostestanu, "Depressnight", a cave
+	5 naked mole dogs
+	454 purring maggots
+	415 cave spiders
+60: Mogshumumom Shadust Nog, "Elbowdark the Bunions of Foot", a cave
+	1 giant
+	1 wolf
+	3 trolls
+	366 cave spiders
+	284 bats
+61: Adecethutha Thariata, "Controlmine the Faithful Pebble", a cave
+	3 large rats
+	365 bats
+	456 cave spiders
+62: Zutosprusmo, "Tunnelechoed", a cave
+	1 giant
+	3 giant moles
+	313 purring maggots
+	361 bats
+63: Inirsarek, "Declinedechoes", a cave
+	2 gremlins
+	401 cave spiders
+	292 purring maggots
+64: Artobbothon, "The Combined Murk", a cave
+	1 giant
+	5 antmen
+	310 bats
+65: Tudloz, "Whirlscars", a cave
+	1 giant
+	2 giant rats
+	267 purring maggots
+	437 bats
+	445 cave spiders
+66: Alatkulur, "Mortalnights", a cave
+	2 trolls
+	469 purring maggots
+	489 bats
+67: Ododsimo Nomar Wala, "Lessenedecho the Abyss of Dourness", a cave
+	1 jaguar
+	1 giant leopard
+	5 antmen
+	307 cave spiders
+	285 purring maggots
+	428 bats
+68: Luthamawami, "Hoodscarred", a cave
+	1 giant
+	2 giant moles
+	307 bats
+	470 cave spiders
+69: Anstridfensast Sutadmim, "Sizzledscars the Yellow Handle", a cave
+	2 large rats
+	309 cave spiders
+	416 bats
+70: Ersiutesh, "The Helmed Crevice", a cave
+	2 trolls
+	424 bats
+	481 purring maggots
+71: Rirecona Cafafi Ewe, "Brokenholes the Gutter of Boring", a cave
+	2 giant rats
+	313 bats
+	488 cave spiders
+72: Elethaayanu, "Thunderedabyss", a cave
+	1 jaguar
+	2 large rats
+	256 bats
+	465 cave spiders
+73: Onecaomethu Nimo Are, "Chokehollow the Pit of Seeds", a cave
+	1 cougar
+	1 giant leopard
+	2 trolls
+	409 purring maggots
+	419 cave spiders
+74: Iquila Cayi, "The Umbra of Flashes", a cave
+	1 cougar
+	2 trolls
+	373 bats
+	480 purring maggots
+75: Sesleusu, "Elbowhollow", a cave
+	5 antmen
+	418 cave spiders
+	491 bats
+76: Libashsalul, "Axeskins", a mountain fortress
+	Owner: The Wire of Storms, dwarves
+	Parent Civ: The Arrow of Assembling, dwarves
+	Leader: Mosus Inkybald, dwarf
+	118 dwarves
+77: Stozuxagu, "Poisonvisions", a dark fortress
+	Owner: The Tapered Monsters, goblins
+	Parent Civ: The Fragile Sin, goblins
+	Leader: Olngo Bridledhate, goblin
+	8 humans
+	42 goblins
+	2 dwarves
+	1 demon
+	2 human prisoners
+	2 dwarf prisoners
+78: Lipiuxen, "Packsearched", a town
+	5 dwarves
+79: Beresiave, "Lengthwoods", a forest retreat
+	46 elves
+80: Mistemtoral, "Portallaws", a mountain fortress
+	Owner: The Unbridled Arrow, dwarves
+	Parent Civ: The Blotted Staff, dwarves
+	Leader: Logem Painttaker, dwarf
+	119 dwarves
+	2 dromedaries
+	2 wagons
+81: Urarsmabek, "Malignedcatches", a dark fortress
+	Owner: The Murky Seducer, goblins
+	Parent Civ: The Outrageous Spider, goblins
+	Leader: Mato Gemsins the Labyrinthine Tear, goblin
+	53 humans
+	2 dwarves
+	17 goblins
+	1 demon
+	19 human prisoners
+82: Kortalde, "Orderdefense", a town
+	Owner: The Band of Dining, humans
+	Parent Civ: The Realms of Language, humans
+	Leader: Thram Wealthsstoked, human
+	46 humans
+83: Lanalepari, "Trailmeadow", a forest retreat
+	Owner: The Euphoric Wax, elves
+	Parent Civ: The Golden Fords, elves
+	Leader: Ave Martyreddawn, elf
+	123 elves
+84: Vadanelari, "Dunearrows", a forest retreat
+	Owner: The Skin of Smiling, elves
+	Parent Civ: The Tundra of Meeting, elves
+	Leader: Elana Earthenleopard, elf
+	124 elves
+85: Linocda, "Kindnesstrim", a town
+	Owner: The League of Banks, humans
+	Parent Civ: The Confusing Kingdom, humans
+	Leader: Mistrum Glazeferry, human
+	56 humans
+86: Kutsmobsnuk, "Menacedrelics", a dark fortress
+87: Eseshlikot, "Spuninked", a mountain fortress
+	Owner: The Grizzly Wires, dwarves
+	Parent Civ: The Wheel of Meditating, dwarves
+	Leader: Urdim Clashedsyrups, dwarf
+	103 dwarves
+88: Kastaosta, "Clutchedwitch", a dark fortress
+	Owner: The Evil of Acts, goblins
+	Parent Civ: The Fiend of Cleaning, goblins
+	Leader: Zolak Terrorpacked the Petal of Couples, goblin
+	35 goblins
+	1 elf
+	1 demon
+	6 elf prisoners
+89: Tohwotabo, "Scratchman", a town
+	Owner: The Raw Council, humans
+	Parent Civ: The Lustrous Confederacies, humans
+	Leader: Ormol Toneuttered, human
+	59 humans
+90: Rakustsesh, "Tombsocket", a mountain fortress
+91: Ferenine, "Shadewings", a forest retreat
+	Owner: The Waves of Sorcery, elves
+	Parent Civ: The Glowing Pine, elves
+	Leader: Ithithi Granitehail, elf
+	116 elves
+92: Roresanisa, "Slaughterjaws", a forest retreat
+	Owner: The Magical Berries, elves
+	Parent Civ: The Glowing Pine, elves
+	Leader: Alisa Bonesboar, elf
+	60 elves
+93: Gulotokri, "Girdertwisted", a town
+	Owner: The Legendary Council, humans
+	Parent Civ: The Confusing Kingdom, humans
+	Leader: Ad Palesevere, human
+	90 humans
+94: Ocadefutace, "Swordbucks", a forest retreat
+	Owner: The Steamy Horn, elves
+	Parent Civ: The Golden Fords, elves
+	Leader: Dimati Styledswamps, elf
+	96 elves
+95: Azothurdim, "Immortalitytowers", a mountain fortress
+	Owner: The Nourishing Sacks, dwarves
+	Parent Civ: The Wheel of Meditating, dwarves
+	Leader: Bim Tonepage, dwarf
+	55 dwarves
+96: Thithunelara, "Snarltomb", a forest retreat
+	Owner: The Glacier of Rinsing, elves
+	Parent Civ: The Golden Fords, elves
+	Leader: Iru Islandchanced, elf
+	133 elves
+97: Cangoilo, "Glazelauded", a town
+	Owner: The Band of Packs, humans
+	Parent Civ: The Lustrous Confederacies, humans
+	Leader: Threbe Ashenrecluses, human
+	103 humans
+98: Abbazotho, "Alliedpowers", a town
+	Owner: The Simple Coalition, humans
+	Parent Civ: The Confusing Kingdom, humans
+	Leader: Apo Elderpointed, human
+	81 humans
+99: Dothanduqueh, "Growlnurture", a town
+	Owner: The Intense Council, humans
+	Parent Civ: The Realms of Language, humans
+	Leader: Usmok Innsseizures, human
+	20 humans
+100: Rinihrostfen, "Temptbaldness", a town
+	7 dwarves
+101: Eniravafice, "Heartdrink", a forest retreat
+	Owner: The Copper Twigs, elves
+	Parent Civ: The Tundra of Meeting, elves
+	Leader: Nisa Feedsquids, elf
+	80 elves
+102: Adbosa, "Crushdungeons", a dark fortress
+	Owner: The Incest of Dreaming, goblins
+	Parent Civ: The Outrageous Spider, goblins
+	Leader: Egu Showerhelp, human
+	45 humans
+	1 dwarf
+	4 goblins
+	9 human prisoners
+103: Imiciilime, "Bittenhorn", a forest retreat
+	Owner: The Seals of Relieving, elves
+	Parent Civ: The Glowing Pine, elves
+	Leader: Yawo Bridleddeserts, elf
+	84 elves
+104: Ruluido, "Swelterstrays", a town
+	Owner: The Council of Crystal, humans
+	Parent Civ: The Realms of Language, humans
+	Leader: Ihhi Calledsands, human
+	32 humans
+105: Sukxusmatu, "Squeezingflies", a dark fortress
+	Owner: The Wayward Menace, goblins
+	Parent Civ: The Fragile Sin, goblins
+	Leader: Arstruk Pleatedspiders, goblin
+	22 humans
+	5 goblins
+	10 human prisoners
+	4 dwarf prisoners
+106: Betanurdim, "Calmtowers", a mountain fortress
+	Owner: The Hammer of Mist, dwarves
+	Parent Civ: The Blotted Staff, dwarves
+	Leader: Tosid Stakehammer, dwarf
+	93 dwarves
+107: Fidaleatheli, "Autumnaltowers", a forest retreat
+	Owner: The Wet Tails, elves
+	Parent Civ: The Tundra of Meeting, elves
+	Leader: Amiya Steamymorning, elf
+	130 elves
+108: Stasnosnamoz, "Beachhatred", a dark fortress
+	Owner: The Legendary Dread, goblins
+	Parent Civ: The Fragile Sin, goblins
+109: Olngostut, "Monstroushushes", a dark fortress
+	Owner: The Excavated Dungeons, goblins
+	Parent Civ: The Fragile Sin, goblins
+	Leader: Zolak Muddledspiders, goblin
+	16 humans
+	25 goblins
+	8 human prisoners
+	2 dwarf prisoners
+110: Omodeca, "Roaredcrowded", a forest retreat
+	Owner: The Blowing Roses, elves
+	Parent Civ: The Tundra of Meeting, elves
+	Leader: Pari Shoresell, elf
+	109 elves
+111: Ngusluspos, "Terrorabyss", a dark fortress
+	Owner: The Green Demon, goblins
+	Parent Civ: The Outrageous Spider, goblins
+	Leader: Ani Necrosculptures, human
+	45 humans
+	5 goblins
+	1 dwarf
+	6 human prisoners
+112: Shaceduli, "Glacierroots", a town
+	Owner: The Prim Coalition, humans
+	Parent Civ: The Lustrous Confederacies, humans
+	Leader: Gocta Praisedring, human
+	107 humans
+113: Idaladagi, "Glenbronze", a forest retreat
+	Owner: The Jungles of Blocking, elves
+	Parent Civ: The Glowing Pine, elves
+	Leader: Thele Roarmetal, elf
+	83 elves
+114: Mamotfikod, "Plaitedglaze", a mountain fortress
+	Owner: The Wall of Feasts, dwarves
+	Parent Civ: The Arrow of Assembling, dwarves
+	Leader: Sazir Wheelsseal, dwarf
+	98 dwarves
+115: Ereeletha, "Bellthunder", a forest retreat
+	Owner: The Joyous Wings, elves
+	Parent Civ: The Golden Fords, elves
+	Leader: Vaci Snarlingclubs, elf
+	126 elves
+116: Themaiferi, "Cleartusk", a forest retreat
+	Owner: The Taut Drink, elves
+	Parent Civ: The Tundra of Meeting, elves
+	Leader: Arile Rhymedpacked, elf
+	85 elves
+117: Neromuksos, "Mobstole", a dark fortress
+	Owner: The Armored Hatred, goblins
+	Parent Civ: The Fragile Sin, goblins
+	Leader: Aslot Tiredscorpions, goblin
+	18 goblins
+	2 humans
+118: Lutoisman, "Taxworshipped", a town
+	Owner: The League of Games, humans
+	Parent Civ: The Realms of Language, humans
+	Leader: Anthath Apexdreamed, human
+	67 humans
+119: Egulbomrek, "Controlwhips", a mountain fortress
+	Owner: The Mechanism of Counselling, dwarves
+	Parent Civ: The Arrow of Assembling, dwarves
+	Leader: Unib Voicechannel, dwarf
+	41 dwarves
+120: Ewomthakom, "Sunkmountain", a town
+	Owner: The Systemic Band, humans
+	Parent Civ: The Lustrous Confederacies, humans
+	Leader: Ned Curlfinds, human
+	66 humans
+121: Uthalanstrid, "Severesizzles", a town
+	Owner: The Worshipful Coalition, humans
+	Parent Civ: The Lustrous Confederacies, humans
+	Leader: Mela Dinnersnuggles, human
+	82 humans
+122: Amethasethe, "Windypack", a forest retreat
+	Owner: The Excavated Vines, elves
+	Parent Civ: The Tundra of Meeting, elves
+	Leader: Eriya Keeperclearing, elf
+	70 elves
+123: Melrostfen, "Charmedbalds", a town
+	Owner: The Band of Distraction, humans
+	Parent Civ: The Confusing Kingdom, humans
+	Leader: Iral Grooveanvil, human
+	65 humans
+124: Iluvicira, "Webcobra", a forest retreat
+	Owner: The Dusk of Coasts, elves
+	Parent Civ: The Tundra of Meeting, elves
+	Leader: Quico Meadowcoasts, elf
+	78 elves
+125: Alinoupe, "Dawnedbarb", a forest retreat
+	Owner: The Dead Snarls, elves
+	Parent Civ: The Golden Fords, elves
+	Leader: Themiyi Curlshore, elf
+	85 elves
+126: Niwirlucog, "Winterbulbous", a town
+	Owner: The League of Factions, humans
+	Parent Civ: The Confusing Kingdom, humans
+	Leader: Othral Stasisdated, human
+	55 humans
+127: Suslaosnun, "Prowledghoul", a dark fortress
+	Owner: The Barbarous Lies, goblins
+	Parent Civ: The Outrageous Spider, goblins
+	Leader: Ngebzo Cursewhirl the Smile of Brushing, dwarf
+	61 humans
+	2 dwarves
+	4 goblins
+	18 human prisoners
+128: Ilamaifebo, "Flightconfuse", a forest retreat
+	Owner: The Courteous Squid, elves
+	Parent Civ: The Golden Fords, elves
+	Leader: Iru Beastvalley, elf
+	78 elves
+129: Osmosplesmnast, "Spideryflashes", a dark fortress
+	Owner: The Thief of War, goblins
+	Parent Civ: The Fragile Sin, goblins
+	Leader: Estrur Yearterror, goblin
+	71 humans
+	5 dwarves
+	12 goblins
+	18 human prisoners
+	2 dwarf prisoners
+130: Tiristumstiz, "Rimsizzled", a mountain fortress
+	Owner: The Wall of Limbs, dwarves
+	Parent Civ: The Blotted Staff, dwarves
+	Leader: Thob Gearedrings, dwarf
+	44 dwarves
+131: Lemaamena, "Fillsprings", a forest retreat
+	Owner: The Neutral Woods, elves
+	Parent Civ: The Tundra of Meeting, elves
+	Leader: Tise Foggybristles, elf
+	116 elves
+132: Canileru, "Smilepeeks", a town
+	Owner: The Disemboweled Fellowship, humans
+	Parent Civ: The Lustrous Confederacies, humans
+	Leader: Abuth Netbreeches, human
+	93 humans
+133: Senamalalala, "Hawkpatterns", a forest retreat
+	Owner: The Pack of Poems, elves
+	Parent Civ: The Tundra of Meeting, elves
+	Leader: Vafice Groveblockades, elf
+	72 elves
+134: Rozmowisho, "Butteredrhymed", a town
+	Owner: The Banded Group, humans
+	Parent Civ: The Realms of Language, humans
+	Leader: Bedo Petaljester, human
+	21 humans
+135: Mafirasima, "Scalyempire", a forest retreat
+	Owner: The Tenacious Shells, elves
+	Parent Civ: The Tundra of Meeting, elves
+	Leader: Famime Churchivy, elf
+	71 elves
+136: Rinihcilom, "Temptripe", a town
+	Owner: The Momentous Band, humans
+	Parent Civ: The Realm of Hegemons, humans
+	5 humans
+137: Possinur, "Spreadstandards", a town
+	Owner: The Creamy Fellowship, humans
+	Parent Civ: The Realms of Language, humans
+	Leader: Idur Colortrench, human
+	166 humans
+138: Uromshibbi, "Purpleblossoms", a town
+	Owner: The North Band, humans
+	Parent Civ: The Confusing Kingdom, humans
+	Leader: Duli Tunneleddanger, human
+	41 humans
+139: Hinertokri, "Bakertwisted", a town
+	Owner: The Noiseless Coalition, humans
+	Parent Civ: The Confusing Kingdom, humans
+	Leader: Sathra Calmedperplexed, human
+	87 humans
+140: Meteleto, "Webboats", a town
+	Owner: The Cremated Society, humans
+	Parent Civ: The Confusing Kingdom, humans
+	Leader: Apsong Constructwarmth, human
+	79 humans
+141: Urarulta, "Malignwilted", a dark fortress
+	Owner: The Sins of Affection, goblins
+	Parent Civ: The Fragile Sin, goblins
+	Leader: Olngo Badblockades, goblin
+	74 humans
+	4 dwarves
+	10 goblins
+	24 human prisoners
+	6 dwarf prisoners
+142: Ennaolum, "Talkedtemple", a town
+	Owner: The League of Work, humans
+	Parent Civ: The Confusing Kingdom, humans
+	Leader: Teshil Friendlycrypts, human
+	41 humans
+143: Sporroopra, "Raincolumn", a town
+144: Nubporope, "Clampatterned", a town
+	Owner: The Council of Allegiances, humans
+	Parent Civ: The Confusing Kingdom, humans
+	Leader: Edri Chanceflickered, human
+	41 humans
+145: Ernushrat, "Calmkeepers", a town
+146: Ikiiqua, "Pleatwreath", a town
+	Owner: The Crystalline Fellowship, humans
+	Parent Civ: The Lustrous Confederacies, humans
+	Leader: Furi Drivenattack, human
+	55 humans
+147: Alatatek, "Mortalbutton", a town
+148: Guloithbi, "Girderwhispers", a town
+	Owner: The Oily Fellowship, humans
+	Parent Civ: The Lustrous Confederacies, humans
+	Leader: Sath Pregnantbrains, human
+	43 humans
+149: Bistkashcuro, "Jesterrings", a town
+	Owner: The League of Recreations, humans
+	Parent Civ: The Lustrous Confederacies, humans
+	Leader: Gagu Oceanscribe, human
+	28 humans
+150: Gisekurvad, "Cobraseals", a mountain fortress
+151: Olonalath, "Gearedbolt", a mountain fortress
+	2 dwarves
+	1 pike
+152: Edtulsazir, "Groovedbridge", a mountain fortress
+	Owner: The Town of Trusses, dwarves
+	Parent Civ: The Blotted Staff, dwarves
+	Leader: Logem Oarbeasts, dwarf
+
+Outdoor Animal Populations (Including Undead)
+	135469 groundhogs
+	9903 cougars
+	62913 wolves
+	208126 rhesus macaques
+	32397 deer
+	3417 grizzly bears
+	17810 foxes
+	3378 black bears
+	19954 raccoons
+	27651 muskoxen
+	30326 elk
+	73862 horses
+	38571 mountain gnomes
+	2870 giant eagles
+	24193 sasquatches
+	79169 mountain goats
+	64325 hoary marmots
+	44121 bactrians
+	37816 dromedaries
+	4045 leopards
+	4422 jaguars
+	1598 alligators
+	9291 snailmen
+	11160 slugmen
+	150 pike
+	50703 sea lampreys
+	129 longnose gars
+	112 carp
+	2369 giant jaguars
+	1862 giant leopards
+	845 giant desert scorpions
+	612 nightwings
+	13877 werewolves
+	6617 ogres
+	24054 harpies
+	2318 merpeople
+	40169 sturgeons
+	55499 basking sharks
+	36195 longfin mako sharks
+	73244 bluefin tuna
+	52964 marlins
+	71902 angelsharks
+	69733 conger eels
+	51170 swordfish
+	2461 unicorns
+	2291 sea serpents
+	43529 great white sharks
+	61857 bluefish
+	59566 opah
+	57275 spotted wobbegongs
+	39922 cod
+	43529 blue sharks
+	59566 common skates
+	62949 ocean sunfish
+	57275 whales
+	46522 spiny dogfish
+	64148 nurse sharks
+	59566 shortfin mako sharks
+	38947 halibut
+	55686 frill sharks
+	50402 hammerhead sharks
+	18 satyrs
+	6755 dark gnomes
+	39 sea monsters
+	122 polar bears
+	4131672 toads
+	4077138 turtles
+	3813815 dragonflies
+	42021745 flies
+	2339540 blue jays
+	4106480 rats
+	3859652 large roaches
+	1896044 cardinals
+	3792844 lizards
+	146140 red squirrels
+	3167240 bats
+	287168 chipmunks
+	28174274 acorn flies
+	2967851 moghoppers
+	134486 cave swallows
+	397578 fox squirrels
+	3797002 two-legged rhino lizards
+	3303504 fireflies
+	283227 gray squirrels
+	1095311 hedgehogs
+	5380091 pixies
+	333857 fairies
+	420046 fluffy wamblers
+	779566 grackles
+	2810683 monarch butterflies
+	270916 red-winged blackbirds
+	1974 brown bullheads
+	1913 sailfin mollies
+	814693 mussels
+	2732 char
+	1913 yellow bullheads
+	2100 rainbow trout
+	1449 black bullheads
+	6424720 blood gnats
+	528890 knuckle worms
+	477232 demon rats
+	58382 orioles
+	166375 sea nettle jellyfish
+	850026 seahorses
+	806972 flounders
+	905478 mackerel
+	932525 bat rays
+	1187737 sole
+	1194503 oysters
+	1772038 herrings
+	634607 spotted ratfish
+	662099 hagfish
+	736738 brook lampreys
+	2059609 anchovies
+	746866 salmon
+	701311 steelhead trout
+	1022450 hake
+	622033 shads
+	896 phantom spiders
+	806 perch
+	Unnumbered beetles
+	Unnumbered worms
+	Unnumbered ants

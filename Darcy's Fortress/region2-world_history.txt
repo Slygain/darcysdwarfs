@@ -1,0 +1,361 @@
+Ecamo Quico
+The Universe of Cyclones
+
+The Arrow of Assembling, Dwarves
+ Worship List
+  Id, deity: jewels
+  Onol, deity: mountains, earth
+  Kat Largeyell the Flag of Breaching, deity: wealth, trade, fortresses, war, death
+  Zasit Daggerlivid, deity: chaos
+  Shoveth, deity: lies, treachery, trickery
+  Atrid Sparkledblossomed the Velvet of Delighting, deity: revelry, music
+  Nekut, deity: twilight
+  Udib Dumplinghoney, deity: food
+  Arkoth Legenddreamed the Puzzling Heavens, deity: fate
+  Er, deity: misery
+  Zengod Prophetplanned, deity: inspiration, loyalty, oaths, laws
+  Taron Largetorches, deity: courage
+ Ruler List
+  [*] Mebzuth Grovestaff (b.??? d. 22, Reign Began: 1), *** Original Line, Married (d. 64)
+      10 Children -- Ages at death: 21 20 19 18 17 16 15 14 13 12
+      Worshipped Zengod Prophetplanned (60%)
+  [*] Vucar Ironchanted (b.1 d. 80, Reign Began: 23), Inherited from father, Married (d. 81)
+      10 Children (out-lived 4 of them) -- Ages at death: (d. 64) (d. 64) (d. 78) (d. 71) 18 15 13 8 7 1
+      Worshipped Zengod Prophetplanned (29%)
+  [*] Stukos Bellfleshes (b.62 d. 81, Reign Began: 81), Inherited from father, Married (d. 83)
+      2 Children -- Ages at death: 2 0
+      Worshipped Id (91%)
+  [*] Lolor Bannerstokes (b.68 d. 84, Reign Began: 82), *** New Line, Married (d. 89)
+      No Children
+      Worshipped Id (60%)
+  [*] Zuglar Wildnesstombs (b.73 d. 88, Reign Began: 85), *** New Line, Married (d. 91)
+      3 Children -- Ages at death: 2 1 0
+      Worshipped Nekut (83%)
+  [*] Urvad Giltbridges (b.67 d. 90, Reign Began: 89), *** New Line, Married (d. 90)
+      10 Children -- Ages at death: 9 8 7 6 5 4 3 2 1 0
+      Worshipped Zengod Prophetplanned (39%)
+  [*] Muthkat Scrapedshield (b.73 d. 91, Reign Began: 91), *** New Line, Married (d. 88)
+      3 Children -- Ages at death: 5 4 3
+      Worshipped Arkoth Legenddreamed the Puzzling Heavens (82%)
+  [*] Zefon Lustrousmachine (b.73 d. 92, Reign Began: 92), *** New Line, Married (d. 92)
+      7 Children -- Ages at death: 6 5 4 3 2 1 0
+      Worshipped Id (61%)
+  [*] Ast Pagedurges (b.67 d. 95, Reign Began: 93), *** New Line, Married (d. 80)
+      No Children
+      Worshipped Id (72%)
+  [*] Ast Strikecloistered (b.81 d. 96, Reign Began: 96), *** New Line, Married (d. 96)
+      3 Children -- Ages at death: 2 1 0
+      Worshipped Id (97%)
+  [*] Edem Arrowvessel (b.85 d. 97, Reign Began: 97), *** New Line, Married (d. 97)
+      No Children
+      Worshipped Id (88%)
+  [*] Kubuk Flagcrests (b.81, Reign Began: 98), *** New Line, Married (d. 97)
+      1 Child -- Ages: 107
+      Worships Id (81%)
+The Fragile Sin, Goblins
+ Worship List
+  Arstruk Plaguewraith the Torrid Dungeons, demon: fire, death, torture
+ Ruler List
+  [*] Arstruk Plaguewraith the Torrid Dungeons (b.???, Reign Began: 1), *** Original Line, Never Married
+      No Children
+Sogochleelus, Kobolds
+ Ruler List
+  [*] Kagakalungin (b.??? d. 84, Reign Began: 1), *** Original Line, Married (d. 85)
+      4 Children (out-lived 1 of them) -- Ages at death: 83 82 (d. 46) 78
+  [*] Slagagadraler (b.2 d. 162, Reign Began: 84), Inherited from mother, Married (d. 166)
+      4 Children -- Ages at death: 115 78 77 60
+  [*] Throklidis (b.84, Reign Began: 162), Inherited from father, Married
+      4 Children -- Ages: 102 46 43 42
+The Realm of Hegemons, Humans
+ Worship List
+  Pimra Sheensongs, deity: love, dance, music
+  Bok, deity: animals, plants, the rain, storms, thunder, lightning
+  Lural, deity: lies, treachery, trickery
+  Uja, deity: suicide, death
+  Girus, deity: generosity
+  Uthra the Adventurous Goals, deity: youth, children, birth
+ Ruler List
+The Virtuous Buck, Elves
+ Worship List
+  Alisa Waspcoasts the Washed Raven, force: nature, rivers
+ Ruler List
+  [*] Mimale Flowersearched (b.??? d. 3, Reign Began: 1), *** Original Line, Married (d. 3)
+      2 Children -- Ages at death: 2 1
+      Worshipped Alisa Waspcoasts the Washed Raven (94%)
+  [*] Conibo Dawnreins (b.??? d. 35, Reign Began: 3), *** New Line, Married (d. 3)
+      2 Children -- Ages at death: 34 33
+      Worshipped Alisa Waspcoasts the Washed Raven (78%)
+  [*] Ceca Friendlyroar (b.1 d. 50, Reign Began: 36), Inherited from father, Never Married
+      No Children
+      Worshipped Alisa Waspcoasts the Washed Raven (70%)
+  [*] Caraca Ivorywaters (b.39 d. 53, Reign Began: 51), *** New Line, Married (d. 53)
+      1 Child -- Ages at death: 1
+  [*] Ithithi Clinchbuck (b.38 d. 56, Reign Began: 53), *** New Line, Married (d. 53)
+      1 Child -- Ages at death: 4
+  [*] Imepe Mansionhawks (b.42 d. 59, Reign Began: 57), *** New Line, Never Married
+      No Children
+Threelmus, Kobolds
+ Ruler List
+  [*] Blobeedis (b.??? d. 17, Reign Began: 1), *** Original Line, Married (d. 90)
+      4 Children -- Ages at death: 16 15 14 13
+  [*] Shruprorbis (b.3 d. 154, Reign Began: 18), Inherited from father, Married (d. 38)
+      2 Children -- Ages at death: 136 129
+  [*] Krubukigis (b.25 d. 185, Reign Began: 154), Inherited from father, Married (d. 190)
+      4 Children -- Ages at death: 126 89 31 30
+  [*] Tigrulber (b.96, Reign Began: 185), Inherited from mother, Married
+      6 Children -- Ages: 56 51 46 42 35 34
+The Blotted Staff, Dwarves
+ Worship List
+  Doren Granitecrested, deity: metals, mountains
+  Datan, deity: wealth, jewels, minerals
+  Asol Triflehelp, deity: fortresses, war, torture, misery
+  Icum Trustpeaces, deity: charity
+  Zoluth, deity: revenge
+  Ittas Redtrust the Mirthful Blossom, deity: generosity, pregnancy
+  Igest the Lutes of Song, deity: beauty
+  Otthat Heavensmatch, deity: the wind
+  Sastres Standardfirst, deity: travelers, duty
+  Anriz, deity: trees, the rain, fertility, agriculture
+  Nunok, deity: scholarship
+ Ruler List
+  [*] Inod Anguishedbolts (b.??? d. 82, Reign Began: 1), *** Original Line, Married (d. 96)
+      10 Children (out-lived 1 of them) -- Ages at death: 81 80 (d. 71) 78 77 76 75 74 73 72
+      Worshipped Igest the Lutes of Song (96%)
+  [*] Lor Seedgilt (b.8 d. 174, Reign Began: 82), Inherited from mother, Married (d. 173)
+      4 Children (out-lived 1 of them) -- Ages at death: 147 (d. 118) 145 144
+      Worshipped Igest the Lutes of Song (94%)
+  [*] Likot Strokeletter (b.27 d. 190, Reign Began: 174), Inherited from father, Married (d. 190)
+      3 Children -- Ages at death: 126 100 3
+      Worshipped Igest the Lutes of Song (96%)
+  [*] Besmar Craftedadmired (b.64, Reign Began: 190), Inherited from father, Married
+      5 Children -- Ages: 36 33 14 10 7
+      Worships Icum Trustpeaces (94%)
+The Outrageous Spider, Goblins
+ Worship List
+  Osta Heatswelters the Ashen Funeral, demon: fire, death, torture
+ Ruler List
+  [*] Osta Heatswelters the Ashen Funeral (b.???, Reign Began: 1), *** Original Line, Never Married
+      No Children
+The Realms of Language, Humans
+ Worship List
+  Ibu, deity: music
+  Ashi, deity: fate
+  Pevit Amusegild, deity: luck, gambling, games
+  Mudi, deity: volcanos, mountains, caverns, animals
+  Ithbi Glenlulled, deity: silence
+  Alnos, deity: discipline
+  Shibbi, deity: children, pregnancy
+  Kamca Lonecat, deity: the stars
+  Adith, deity: scholarship
+ Ruler List
+The Golden Fords, Elves
+ Worship List
+  Arile the Moistness of Beaches, force: nature, rivers
+ Ruler List
+  [*] Iru Namewaxed (b.??? d. 142, Reign Began: 1), *** Original Line, Married (d. 145)
+      10 Children -- Ages at death: 141 140 139 138 137 136 135 134 133 132
+      Worshipped Arile the Moistness of Beaches (15%)
+  [*] Senama Grottoprestige (b.7 d. 145, Reign Began: 143), Inherited from mother, Married
+      7 Children (out-lived 2 of them) -- Ages at death: (d. 142) 124 123 (d. 142) 121 120 2
+      Worshipped Arile the Moistness of Beaches (9%)
+  [*] Imiwa Sensewings (b.25 d. 161, Reign Began: 146), Inherited from mother, Married (d. 142)
+      2 Children (out-lived 1 of them) -- Ages at death: 121 (d. 142)
+      Worshipped Arile the Moistness of Beaches (46%)
+  [*] Covema Machinebulb (b.40, Reign Began: 162), Inherited from mother, Married (d. 189)
+      4 Children -- Ages: 147 146 61 40
+      Worships Arile the Moistness of Beaches (44%)
+The Tundra of Meeting, Elves
+ Worship List
+  Apa Dawnhowls the Ivy of Morning, force: nature, rivers
+ Ruler List
+  [*] Fewetha Pillarwater (b.???, Reign Began: 1), *** Original Line, Married
+      10 Children -- Ages: 203 202 201 200 199 198 197 196 195 194
+      Worships Apa Dawnhowls the Ivy of Morning (87%)
+Fladadaflungin, Kobolds
+ Ruler List
+  [*] Shrikiseemus (b.??? d. 1, Reign Began: 1), *** Original Line, Married (d. 95)
+      1 Child -- Ages at death: 0
+  [*] Slostarsnis (b.??? d. 106, Reign Began: 2), *** New Line, Married (d. 72)
+      10 Children -- Ages at death: 105 104 103 102 101 100 99 98 97 96
+  [*] Kididogus (b.3 d. 170, Reign Began: 106), Inherited from father, Married (d. 156)
+      2 Children -- Ages at death: 154 153
+  [*] Throshigus (b.16 d. 172, Reign Began: 170), Inherited from mother, Married (d. 174)
+      4 Children -- Ages at death: 106 6 2 1
+  [*] Kilistolgus (b.66, Reign Began: 172), Inherited from father, Never Married
+      No Children
+The Confusing Kingdom, Humans
+ Worship List
+  Oled, deity: charity, generosity
+  Sitsu, deity: mist
+  Bisan the Future Seeds, deity: creation
+  Tequil, deity: minerals, metals
+  Lecit Ledcrowns, deity: victory, war, fortresses
+  Acath Driveprophets, deity: persuasion, speech, trade
+ Ruler List
+The Uncertain Wickedness, Goblins
+ Worship List
+  Aslot Doomhate the Bone of Seduction, demon: fire, death, torture
+ Ruler List
+  [*] Aslot Doomhate the Bone of Seduction (b.??? d. 86, Reign Began: 1), *** Original Line, Never Married
+      No Children
+  [*] Ozud Cursemines the Mortal Gleam of Pungency (b.69 d. 91, Reign Began: 87), *** New Line, Married (d. 86)
+      2 Children -- Ages at death: 6 5
+      Worshipped Tequil (69%)
+  [*] Dostngosp Combatthieves the Infamous Petals (b.73 d. 103, Reign Began: 91), *** New Line, Married (d. 87)
+      No Children
+      Worshipped Bisan the Future Seeds (53%)
+  [*] Song Glovecruelty the Mighty Bend of Light (b.80 d. 108, Reign Began: 104), *** New Line, Married (d. 92)
+      No Children
+      Worshipped Aslot Doomhate the Bone of Seduction (60%)
+The Wheel of Meditating, Dwarves
+ Worship List
+  Id, deity: metals
+  Atir Inkmines the Copper Brightness of Crystals, deity: jewels, minerals
+  Kes the Remarkable Volcano, deity: fortresses, war, mountains, volcanos
+  Stettad Taxwealthy the Diamond Gem, deity: wealth
+  Azkob, deity: marriage
+  Lim Fogbrave, deity: treachery, consolation
+  Bem the Lacy Theater, deity: crafts
+  Lek, deity: games, the wind
+  Ovus Bonesoozes, deity: blight, death, rebirth, creation, birth, pregnancy, freedom
+  Ngathsesh the Lustful Eel, deity: disease
+ Ruler List
+  [*] Athel Equaledpaged (b.??? d. 94, Reign Began: 1), *** Original Line, Married (d. 2)
+      2 Children -- Ages at death: 93 92
+      Worshipped Stettad Taxwealthy the Diamond Gem (3%)
+  [*] Rith Shotsieged (b.2 d. 163, Reign Began: 94), Inherited from mother, Married (d. 154)
+      2 Children -- Ages at death: 146 143
+      Worshipped Stettad Taxwealthy the Diamond Gem (23%)
+  [*] Deler Savagelantern (b.17 d. 170, Reign Began: 163), Inherited from mother, Married (d. 120)
+      1 Child (out-lived) -- Ages at death: (d. 107)
+      Worshipped Lek (70%)
+  [*] Kadol Trailroof (b.130, Reign Began: 170), *** New Line, Never Married
+      No Children
+      Worships Bem the Lacy Theater (68%)
+The Fiend of Cleaning, Goblins
+ Worship List
+  Em Seducedwarmth the Unholy Death, demon: fire, death, torture
+ Ruler List
+  [*] Em Seducedwarmth the Unholy Death (b.???, Reign Began: 1), *** Original Line, Never Married
+      No Children
+The Lustrous Confederacies, Humans
+ Worship List
+  Islas the Power of Apogees, deity: strength
+  Caspa Rainflier, deity: the sky
+  Kas Cradledlegends, deity: laws, order, duty
+  Tuthid, deity: misery
+  Egesh the Moral Still Heavens, deity: healing
+  Atup the Buds of Sculpting, deity: youth
+  Ngopex, deity: theft
+ Ruler List
+Thlarsnis, Kobolds
+ Ruler List
+  [*] Tolber Staledashes (b.??? d. 83, Reign Began: 1), *** Original Line, Married (d. 99)
+      10 Children (out-lived 1 of them) -- Ages at death: 82 81 80 79 (d. 31) 77 76 75 74 73
+  [*] Pleeldus (b.4 d. 172, Reign Began: 83), Inherited from mother, Married (d. 155)
+      2 Children -- Ages at death: 89 87
+  [*] Shlafadablaygis (b.83, Reign Began: 172), Inherited from father, Married
+      5 Children -- Ages: 49 43 39 38 37
+The Towers of Reigning, Dwarves
+ Worship List
+  Limar the Ivory Silvers, deity: wealth
+  Datan Oiledspines, deity: mountains
+  Avuz, deity: metals
+  Ral Crystalearthen, deity: jewels
+  Katthir Nourishedfences, deity: fortresses
+  Limul, deity: minerals
+ Ruler List
+  [*] Ezum Standardgalleys (b.??? d. 44, Reign Began: 1), *** Original Line, Married (d. 43)
+      7 Children (out-lived 3 of them) -- Ages at death: (d. 43) 42 41 40 (d. 43) (d. 41) 6
+      Worshipped Avuz (47%)
+  [*] Oddom Shieldfreckles (b.2 d. 47, Reign Began: 44), Inherited from father, Married (d. 23)
+      1 Child (out-lived) -- Ages at death: (d. 38)
+      Worshipped Avuz (31%)
+The Glowing Pine, Elves
+ Worship List
+  Sidaya, force: nature, rivers
+ Ruler List
+  [*] Cacame Growlsneaked (b.??? d. 48, Reign Began: 1), *** Original Line, Married (d. 53)
+      10 Children (out-lived 1 of them) -- Ages at death: 47 46 45 44 (d. 22) 42 41 40 39 38
+      Worshipped Sidaya (51%)
+  [*] Salo Seasonwasps (b.2 d. 53, Reign Began: 49), Inherited from father, Married (d. 61)
+      9 Children (out-lived 4 of them) -- Ages at death: (d. 49) 37 36 27 (d. 48) (d. 49) (d. 48) 2 1
+      Worshipped Sidaya (75%)
+  [*] Amala Wanderautumn (b.26 d. 60, Reign Began: 54), Inherited from father, Married (d. 55)
+      5 Children -- Ages at death: 11 10 9 6 5
+      Worshipped Sidaya (69%)
+  [*] Alala Roarsclearing (b.49 d. 61, Reign Began: 61), Inherited from mother, Married (d. 62)
+      No Children
+      Worshipped Sidaya (57%)
+  [*] Alala Splatteredblaze (b.49 d. 67, Reign Began: 62), *** New Line, Married (d. 62)
+      1 Child -- Ages at death: 5
+      Worshipped Sidaya (48%)
+  [*] Ceca Eaglepine (b.56 d. 75, Reign Began: 68), *** New Line, Married (d. 78)
+      3 Children -- Ages at death: 6 5 2
+      Worshipped Sidaya (32%)
+  [*] Apasi Beardedallied (b.62 d. 76, Reign Began: 76), *** New Line, Married (d. 76)
+      2 Children -- Ages at death: 1 0
+      Worshipped Sidaya (34%)
+  [*] Eriya Beaksunk (b.53 d. 92, Reign Began: 77), *** New Line, Married (d. 65)
+      No Children
+      Worshipped Sidaya (37%)
+  [*] Imepe Fordedwildness (b.80 d. 94, Reign Began: 93), *** New Line, Married (d. 94)
+      2 Children -- Ages at death: 1 0
+      Worshipped Sidaya (78%)
+  [*] Ale Planesautumn (b.82 d. 95, Reign Began: 95), *** New Line, Married (d. 110)
+      1 Child -- Ages at death: 0
+      Worshipped Sidaya (73%)
+  [*] Ada Stormtails (b.82 d. 96, Reign Began: 96), *** New Line, Never Married
+      No Children
+      Worshipped Sidaya (56%)
+  [*] Cimathi Gearedpearl (b.78 d. 104, Reign Began: 97), *** New Line, Married (d. 92)
+      1 Child -- Ages at death: 12
+      Worshipped Sidaya (56%)
+  [*] Pevo Forestclosed (b.92 d. 107, Reign Began: 105), Inherited from father, Married (d. 104)
+      No Children
+      Worshipped Sidaya (46%)
+  [*] Cata Wingnotch (b.66 d. 108, Reign Began: 108), *** New Line, Married (d. 90)
+      3 Children (out-lived 1 of them) -- Ages at death: (d. 104) 28 26
+      Worshipped Sidaya (36%)
+  [*] Avetho Paintmeadow (b.82 d. 110, Reign Began: 109), Inherited from father, Married (d. 95)
+      1 Child (out-lived) -- Ages at death: (d. 107)
+      Worshipped Sidaya (38%)
+  [*] Dipane Oildawns (b.??? d. 122, Reign Began: 111), *** New Line, Married (d. 51)
+      10 Children (out-lived 10 of them) -- Ages at death: (d. 60) (d. 74) (d. 55) (d. 49) (d. 50) (d. 62) (d. 54) (d. 50) (d. 48) (d. 81)
+      Worshipped Sidaya (24%)
+  [*] Rayali Hardycrow (b.107 d. 124, Reign Began: 123), Inherited, Married (d. 125)
+      2 Children -- Ages at death: 1 0
+      Worshipped Sidaya (66%)
+  [*] Afe Riverheather (b.107 d. 128, Reign Began: 125), *** New Line, Married (d. 138)
+      5 Children -- Ages at death: 8 6 5 3 2
+      Worshipped Sidaya (51%)
+  [*] Eliye Strokeclam (b.97 d. 138, Reign Began: 129), *** New Line, Married (d. 121)
+      9 Children (out-lived 7 of them) -- Ages at death: (d. 122) (d. 125) (d. 124) (d. 128) (d. 128) (d. 136) 22 19 (d. 137)
+      Worshipped Sidaya (40%)
+  [*] Imiwa Neocobras (b.116 d. 144, Reign Began: 139), Inherited from father, Married (d. 128)
+      No Children
+      Worshipped Sidaya (58%)
+  [*] Iyathi Stoppedglades (b.114 d. 153, Reign Began: 145), *** New Line, Married (d. 128)
+      No Children
+      Worshipped Sidaya (31%)
+  [*] Fima Roseglaciers (b.124 d. 157, Reign Began: 154), *** New Line, Married (d. 166)
+      10 Children (out-lived 2 of them) -- Ages at death: 19 18 17 (d. 153) (d. 156) 12 11 10 9 8
+      Worshipped Sidaya (51%)
+  [*] Saba Whiskeredcloudy (b.146 d. 158, Reign Began: 158), Inherited from mother, Never Married
+      No Children
+      Worshipped Sidaya (58%)
+  [*] Lefari Waterelders (b.125 d. 164, Reign Began: 159), *** New Line, Married (d. 141)
+      4 Children (out-lived 2 of them) -- Ages at death: 26 25 (d. 157) (d. 157)
+      Worshipped Sidaya (43%)
+  [*] Nidela Roarsnames (b.139 d. 179, Reign Began: 165), Inherited from father, Married (d. 156)
+      1 Child (out-lived) -- Ages at death: (d. 166)
+      Worshipped Sidaya (50%)
+  [*] Imere Peardeaths (b.165 d. 183, Reign Began: 180), *** New Line, Married (d. 179)
+      1 Child -- Ages at death: 4
+      Worshipped Sidaya (54%)
+  [*] Ada Mellowfish (b.159 d. 184, Reign Began: 184), *** New Line, Married
+      10 Children -- Ages at death: 11 10 9 8 7 4 3 2 1 0
+      Worshipped Sidaya (56%)
+  [*] Iwethi Mawrooms (b.173, Reign Began: 185), Inherited from father, Married (d. 199)
+      7 Children -- Ages: 18 17 16 15 14 13 7
+      Worships Sidaya (51%)
